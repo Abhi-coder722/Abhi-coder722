@@ -94,7 +94,7 @@
 
 [![https://github-readme-streak-stats.herokuapp.com/?user=Abhi-coder722](http://github-readme-streak-stats.herokuapp.com?user=Abhi-coder722&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-coder722)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhishek's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-coder722&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -104,4 +104,4 @@
 - 🆕: Working on back-end development .
 
 ### :copyright: Abhi-coder722:
-- 🤝: Looking forward for an internship in a awesome company with software as it's base tools .
+- 🤝: Looking forward for an internship in an awesome software based company .
