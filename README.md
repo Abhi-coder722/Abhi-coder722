@@ -34,7 +34,7 @@
         from India. I am currently working on backend .
 </p>
 
- I currently reside in Germany <img src="https://media3.giphy.com/media/8FuZarvdqJQNxK2rJj/giphy.gif?cid=ecf05e47bq4uhfwzvc52vyu2homvax30va5xppvtr2ly6yho&rid=giphy.gif&ct=g" width="30">.
+ I currently reside in Germany ✈️ - 🇩🇪
 
     
     
@@ -82,4 +82,26 @@
         
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>
         
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" title="openCV" alt="openCV" width="40" height="40"/>
+        
 </div>
+
+
+
+---
+
+### :fire: My Stats :
+
+[![https://github-readme-streak-stats.herokuapp.com/?user=Abhi-coder722](http://github-readme-streak-stats.herokuapp.com?user=Abhi-coder722&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-coder722)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Currently working on: :
+
+- 💻: Currently working on some old projects .
+- 🆕: Working on back-end development .
+
+### :copyright: Abhi-coder722:
+- 🤝: Looking forward for an internship in a awesome company with software as it's base tools .
