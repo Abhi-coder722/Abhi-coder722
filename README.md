@@ -98,10 +98,10 @@
 
 ---
 
-### :writing_hand: Currently working on: :
+### :writing_hand: Currently: :
 
-- 💻: Learning TensorFlow.
-- 🆕: On Machine Learning Algorithms .
+- 💻:  Learning TensorFlow and,
+- 🆕:  Machine Learning Algorithms .
 
 ### :copyright: Abhi-coder722:
 - 🤝: Looking forward for an internship in an awesome software based company .
