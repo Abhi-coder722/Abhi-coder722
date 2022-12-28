@@ -30,8 +30,8 @@
 
 ---
 ### :man_technologist: About Me :
-<p>  I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-        from India. I am currently working on backend .
+<p>  Artificial Intelligence Engineer based in Germany <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 </p>
 
  I currently reside in Germany ✈️ - 🇩🇪
@@ -100,8 +100,8 @@
 
 ### :writing_hand: Currently working on: :
 
-- 💻: Currently working on some old projects .
-- 🆕: Working on back-end development .
+- 💻: Learning TensorFlow.
+- 🆕: On Machine Learning Algorithms .
 
 ### :copyright: Abhi-coder722:
 - 🤝: Looking forward for an internship in an awesome software based company .
