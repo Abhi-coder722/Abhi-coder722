@@ -104,4 +104,4 @@
 - 🆕:  Machine Learning Algorithms .
 
 ### :copyright: Abhi-coder722:
-- 🤝: Looking forward for an internship in an awesome software based company .
+- 🤝
