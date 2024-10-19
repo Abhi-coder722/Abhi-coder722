@@ -14,6 +14,9 @@
         <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Gmail Badge" />
     </a>
+        <div align="center">
+    <img  src="https://komarev.com/ghpvc/?username=Abhi-coder722&style=flat-square&color=blue" alt=""/>
+</div>
 </div>
 
 
